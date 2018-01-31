@@ -25,7 +25,9 @@ SECRET_KEY = '9k11e!8-(^g%0de+)61)zqjf*e=wogu((kn)b&8*r7db$x1ian'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'janisje.pythonanywhere.com'
+]
 
 
 # Application definition
